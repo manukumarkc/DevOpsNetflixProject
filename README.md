@@ -58,7 +58,7 @@ Look This is How it Looks when you host an Application on Kubernetes Cluster and
 Jenkins Pipeline Overview:
 ![Alt Text](https://github.com/manukumarkc/DevOpsNetflixProject/blob/main/Kubernetes/Screenshot%202025-03-17%20at%2015.12.07.png?raw=true)
 
-Real-Time Monitoring: Proetheus and Grafana with Node Exporter on Jenkin Server and on Kubernetes Cluster:
+Real-Time Monitoring: Prometheus and Grafana with Node Exporter on Jenkin Server and on Kubernetes Cluster:
 
 ![Alt Text](https://github.com/manukumarkc/DevOpsNetflixProject/blob/main/Screenshot%202025-03-17%20at%2015.18.45.png?raw=true)
 
