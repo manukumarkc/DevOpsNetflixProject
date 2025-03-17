@@ -17,6 +17,12 @@
 Jenkins Pipeline Overview:
 ![Alt Text](https://github.com/manukumarkc/DevOpsNetflixProject/blob/main/Kubernetes/Screenshot%202025-03-17%20at%2015.12.07.png?raw=true)
 
+Real-Time Monitoring: Proetheus and Grafana with Node Exporter on Jenkin Server and on Kubernetes Cluster:
+
+![Alt Text](https://github.com/manukumarkc/DevOpsNetflixProject/blob/main/Screenshot%202025-03-17%20at%2015.18.45.png?raw=true)
+
+Below is the Step wise presentation, to create your own Netflix Project:
+
 
 # Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
 
