@@ -1,3 +1,44 @@
+NETFLIX -CLONE PROJECT:
+CREATING A DOCKERIZED-APPLICATION WITH CICD IMPLEMENTATION:
+ArgoCD for Kubernetes GiOps Deployment:
+Below are the Phases involved in the project:
+
+Phase 1: Setup and Deployment
+
+    EC2 Setup: Launch an EC2 instance with Ubuntu 22.04, connect via SSH.
+    Code Setup: Clone the application code from GitHub and install Docker.
+    Docker Setup: Build and run the app using Docker, then configure it with an API key.
+
+Phase 2: Security
+
+    Install Security Tools: Set up SonarQube and Trivy for code vulnerability scans.
+    SonarQube Integration: Connect SonarQube to CI/CD for quality and security analysis.
+
+Phase 3: CI/CD Setup
+
+    Jenkins Setup: Install Jenkins for automation, including Java, Node.js, and essential plugins.
+    CI/CD Pipeline: Create a Jenkins pipeline to automate app deployment, including code checkout, SonarQube analysis, dependency checks, Docker build, and deployment.
+
+Phase 4: Monitoring
+
+    Prometheus & Grafana: Install and configure Prometheus for monitoring, then integrate with Grafana for visualization.
+    Node Exporter: Install Node Exporter on your EC2 to gather system metrics for Prometheus.
+
+Phase 5: Notification
+
+    Set up Notifications: Configure Jenkins for email alerts or other notification methods.
+
+Phase 6: Kubernetes
+
+    Kubernetes Setup: Create a Kubernetes cluster, monitor it using Prometheus, and deploy apps with ArgoCD.
+
+Phase 7: Cleanup
+
+    EC2 Cleanup: Terminate any unnecessary EC2 instances after the setup.
+
+>>>
+Look This is How it Looks when you host an Application on Kubernetes Cluster and Hosted Online.
+
 <div align="center">
   <img src="./public/assets/DevSecOps.png" alt="Logo" width="100%" height="100%">
 
