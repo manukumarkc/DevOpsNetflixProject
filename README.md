@@ -16,7 +16,7 @@
 
 Jenkins Pipeline Overview:
 
-https://github.com/manukumarkc/DevOpsNetflixProject/blob/main/Kubernetes/Screenshot%202025-03-17%20at%2015.12.07.png?raw=true
+(https://github.com/manukumarkc/DevOpsNetflixProject/blob/main/Kubernetes/Screenshot%202025-03-17%20at%2015.12.07.png?raw=true)
 
 
 # Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
