@@ -17,6 +17,10 @@ ArgoCD for Kubernetes GitOps Deployment:
   <p align="center">Home Page</p>
 </div>
 
+
+Deployment on EKS Cluster with Continuous Monitoring:
+![Project Screenshot](https://github.com/manukumarkc/DevOpsNetflixProject/blob/main/Screenshot%202025-03-18%20at%2016.04.39.png?raw=true)
+
 Jenkins Pipeline Overview:
 ![Alt Text](https://github.com/manukumarkc/DevOpsNetflixProject/blob/main/Kubernetes/Screenshot%202025-03-17%20at%2015.12.07.png?raw=true)
 
