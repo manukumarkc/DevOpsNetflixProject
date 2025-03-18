@@ -1,6 +1,29 @@
 NETFLIX -CLONE PROJECT:
 CREATING A DOCKERIZED-APPLICATION WITH CICD IMPLEMENTATION:
 ArgoCD for Kubernetes GiOps Deployment:
+<div align="center">
+  <img src="./public/assets/DevSecOps.png" alt="Logo" width="100%" height="100%">
+
+  <br>
+  <a href="http://netflix-clone-with-tmdb-using-react-mui.vercel.app/">
+    <img src="./public/assets/netflix-logo.png" alt="Logo" width="100" height="32">
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="./public/assets/home-page.png" alt="Logo" width="100%" height="100%">
+  <p align="center">Home Page</p>
+</div>
+
+Jenkins Pipeline Overview:
+![Alt Text](https://github.com/manukumarkc/DevOpsNetflixProject/blob/main/Kubernetes/Screenshot%202025-03-17%20at%2015.12.07.png?raw=true)
+
+Real-Time Monitoring: Prometheus and Grafana with Node Exporter on Jenkin Server and on Kubernetes Cluster:
+
+![Alt Text](https://github.com/manukumarkc/DevOpsNetflixProject/blob/main/Screenshot%202025-03-17%20at%2015.18.45.png?raw=true)
+
 Below are the Phases involved in the project:
 
 Phase 1: Setup and Deployment
@@ -39,28 +62,6 @@ EC2 Cleanup: Terminate any unnecessary EC2 instances after the setup.
 >>>
 Look This is How it Looks when you host an Application on Kubernetes Cluster and Hosted Online.
 
-<div align="center">
-  <img src="./public/assets/DevSecOps.png" alt="Logo" width="100%" height="100%">
-
-  <br>
-  <a href="http://netflix-clone-with-tmdb-using-react-mui.vercel.app/">
-    <img src="./public/assets/netflix-logo.png" alt="Logo" width="100" height="32">
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="./public/assets/home-page.png" alt="Logo" width="100%" height="100%">
-  <p align="center">Home Page</p>
-</div>
-
-Jenkins Pipeline Overview:
-![Alt Text](https://github.com/manukumarkc/DevOpsNetflixProject/blob/main/Kubernetes/Screenshot%202025-03-17%20at%2015.12.07.png?raw=true)
-
-Real-Time Monitoring: Prometheus and Grafana with Node Exporter on Jenkin Server and on Kubernetes Cluster:
-
-![Alt Text](https://github.com/manukumarkc/DevOpsNetflixProject/blob/main/Screenshot%202025-03-17%20at%2015.18.45.png?raw=true)
 
 Below is the Step wise presentation, to create your own Netflix Project:
 
