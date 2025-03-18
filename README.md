@@ -1,8 +1,8 @@
 NETFLIX -CLONE PROJECT:
 CREATING A DOCKERIZED-APPLICATION WITH CICD IMPLEMENTATION:
 ArgoCD for Kubernetes GiOps Deployment:
-<div align="center">
-  <img src="./public/assets/DevSecOps.png" alt="Logo" width="100%" height="100%">
+![Project Screenshot](https://github.com/manukumarkc/DevOpsNetflixProject/blob/main/Screenshot%202025-03-18%20at%2016.42.48.png?raw=true)
+
 
   <br>
   <a href="http://netflix-clone-with-tmdb-using-react-mui.vercel.app/">
