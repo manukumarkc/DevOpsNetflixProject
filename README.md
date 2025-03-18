@@ -1,6 +1,6 @@
 NETFLIX -CLONE PROJECT:
 CREATING A DOCKERIZED-APPLICATION WITH CICD IMPLEMENTATION:
-ArgoCD for Kubernetes GiOps Deployment:
+ArgoCD for Kubernetes GitOps Deployment:
 ![Project Screenshot](https://github.com/manukumarkc/DevOpsNetflixProject/blob/main/Screenshot%202025-03-18%20at%2016.42.48.png?raw=true)
 
 
