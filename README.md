@@ -4,22 +4,13 @@ ArgoCD for Kubernetes GitOps Deployment:
 ![Project Screenshot](https://github.com/manukumarkc/DevOpsNetflixProject/blob/main/Screenshot%202025-03-18%20at%2016.42.48.png?raw=true)
 
 
-  <br>
-  <a href="http://netflix-clone-with-tmdb-using-react-mui.vercel.app/">
-    <img src="./public/assets/netflix-logo.png" alt="Logo" width="100" height="32">
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="./public/assets/home-page.png" alt="Logo" width="100%" height="100%">
-  <p align="center">Home Page</p>
-</div>
 
 
 Deployment on EKS Cluster with Continuous Monitoring:
 ![Project Screenshot](https://github.com/manukumarkc/DevOpsNetflixProject/blob/main/Screenshot%202025-03-18%20at%2016.04.39.png?raw=true)
+
+Steps involved from setting up locally to Deploying Live:
+![Project Screenshot](https://github.com/manukumarkc/DevOpsNetflixProject/blob/main/Screenshot%202025-03-18%20at%2016.18.50.png?raw=true)
 
 Jenkins Pipeline Overview:
 ![Alt Text](https://github.com/manukumarkc/DevOpsNetflixProject/blob/main/Kubernetes/Screenshot%202025-03-17%20at%2015.12.07.png?raw=true)
